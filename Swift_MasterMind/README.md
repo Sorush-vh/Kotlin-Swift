@@ -1,0 +1,1 @@
+a simple, api connected, 4-digit mastermind game with error handling

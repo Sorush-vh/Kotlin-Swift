@@ -1,2 +1,2 @@
 # Kotlin-Swift
-simple kotlin and swift projects
+kotlin and swift projects

@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Kotlin-Swift}/Swift_MasterMind\\masterMind",
+            "name": "Debug masterMind (Swift_MasterMind\\masterMind)",
+            "program": "${workspaceFolder:Kotlin-Swift}/Swift_MasterMind\\masterMind/.build/debug/masterMind",
+            "preLaunchTask": "swift: Build Debug masterMind (Swift_MasterMind\\masterMind)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Kotlin-Swift}/Swift_MasterMind\\masterMind",
+            "name": "Release masterMind (Swift_MasterMind\\masterMind)",
+            "program": "${workspaceFolder:Kotlin-Swift}/Swift_MasterMind\\masterMind/.build/release/masterMind",
+            "preLaunchTask": "swift: Build Release masterMind (Swift_MasterMind\\masterMind)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Kotlin-Swift}/Kotlin_git_retrofit",
+            "name": "Debug USER (Kotlin_git_retrofit)",
+            "program": "${workspaceFolder:Kotlin-Swift}/Kotlin_git_retrofit/.build/debug/USER",
+            "preLaunchTask": "swift: Build Debug USER (Kotlin_git_retrofit)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Kotlin-Swift}/Kotlin_git_retrofit",
+            "name": "Release USER (Kotlin_git_retrofit)",
+            "program": "${workspaceFolder:Kotlin-Swift}/Kotlin_git_retrofit/.build/release/USER",
+            "preLaunchTask": "swift: Build Release USER (Kotlin_git_retrofit)"
+        }
+    ]
+}
