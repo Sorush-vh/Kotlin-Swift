@@ -1,0 +1,1 @@
+Retrofit project to retreieve information of git users, given their username, with local cache to prevent redundant queries
